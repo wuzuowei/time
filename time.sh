@@ -87,7 +87,7 @@ Display (){
 
 # 倒计时
 PrintfDown (){
-	for ((i=$Miao;i>=0;i--))			#=提示语法错误
+	for ((i=$Miao;i>=0;i--))
 	do
 		clear                                     # 清屏
 		GuangBiao
